@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#121212</color> <!-- Dark gray background -->
+    <color name="text_color">#FFFFFF</color> <!-- White text -->
+    <color name="indicator_color">#FFBB86FC</color> <!-- Purple accent color -->
+</resources>

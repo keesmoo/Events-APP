@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Event Project</string>
+    <string name="title_activity_main_bottom">MainBottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="event_image_description">gambar</string>
+    <string name="button_register">Register</string>
+    <string name="text_404">Tidak ada event yang selesai</string>
+    <string name="event_image">Event Image</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_owner">Event Owner</string>
+    <string name="event_time">Event Time</string>
+    <string name="event_quota">Event Quota</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_open">Event Link Button</string>
+    <string name="favorite_button">Favorite Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
